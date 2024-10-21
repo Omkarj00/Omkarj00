@@ -50,6 +50,7 @@ I am pursuing my BTech in Computer science ( Artificial Intelligence ) at Pune U
 [ <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>](https://www.hackerrank.com/profile/omkarjagtap018)
 </p>
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 ### Here's my github stats:
 
@@ -58,8 +59,7 @@ I am pursuing my BTech in Computer science ( Artificial Intelligence ) at Pune U
 [![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Omkarj00&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Omkarj00)](https://github.com/ryo-ma/github-profile-trophy)
 
-| <a href="https://github.com/Omkarj00/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Omkarj00&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Omkar's github stats" /></a> | <a href="https://github.com/Omkarj00/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarj00&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+
 
 <!-- 
 ----
