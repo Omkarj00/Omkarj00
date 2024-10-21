@@ -10,11 +10,14 @@ I am pursuing my BTech in Computer science ( Artificial Intelligence ) at Pune U
 - research internships 
 
 
-## Skills:
+## 💻 Tech Stack:
 
 #### Languages:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white);
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white);
+
 
 
 #### ML/DL
