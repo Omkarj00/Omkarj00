@@ -50,6 +50,15 @@ I am pursuing my BTech in Computer science ( Artificial Intelligence ) at Pune U
 [ <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>](https://www.hackerrank.com/profile/omkarjagtap018)
 </p>
 
+
+
+
+![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=Omkarj008&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Omkarj008&theme=radical)](https://git.io/streak-stats) 
+[![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Omkarj008&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Omkarj00)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
