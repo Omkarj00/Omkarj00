@@ -43,6 +43,7 @@ I am pursuing my BTech in Computer science ( Artificial Intelligence ) at Pune U
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
 
 
+
 ## Connect with me:
 
 <p align = "center">
