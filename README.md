@@ -44,7 +44,7 @@ I am pursuing my BTech in Computer science ( Artificial Intelligence ) at Pune U
 <p align = "center">
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://www.linkedin.com/in/omkar-jagtap-aa23bb227/)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/om_kar.j__/)
+[<img alt="Instagram" title="Jaydeep Yadav Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/om_kar.j__/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarjagtap018@gmail.com)
 [<img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>](https://leetcode.com/u/Omkar_j00/)
 [ <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>](https://www.hackerrank.com/profile/omkarjagtap018)
