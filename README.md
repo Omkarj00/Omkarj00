@@ -1,7 +1,6 @@
 ![readmebox](/assets/readmebox.svg)
 
-### Hi there, I'm [Omkar Jagtap]  
--<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="29px">
+### Hi there, I'm [Omkar Jagtap] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="29px">
 
 I am pursuing my BTech in Computer science ( Artificial Intelligence ) at Pune University, Apart from that I am a passionate Machine Learning engineer and like to explore the field of Data Science , Machine Learning, AI  and contribute to open-source  
 
