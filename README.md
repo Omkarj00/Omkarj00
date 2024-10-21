@@ -12,6 +12,9 @@ I am pursuing my BTech in Computer science ( Artificial Intelligence ) at Pune U
 
 ## 💻 Tech Stack:
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+
 #### Languages:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -49,8 +52,6 @@ I am pursuing my BTech in Computer science ( Artificial Intelligence ) at Pune U
 [<img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>](https://leetcode.com/u/Omkar_j00/)
 [ <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>](https://www.hackerrank.com/profile/omkarjagtap018)
 </p>
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 ### Here's my github stats:
 
