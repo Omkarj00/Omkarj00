@@ -52,11 +52,10 @@ I am pursuing my BTech in Computer science ( Artificial Intelligence ) at Pune U
 
 
 
-
-![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=Omkarj008&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Omkarj008&theme=radical)](https://git.io/streak-stats) 
-[![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Omkarj008&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Omkarj00)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omkarj008&show_icons=true&theme=radical)](https://github.com/Omkarj00)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Omkarj008&theme=radical)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Omkarj008&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)](https://github.com/Omkarj00)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Omkarj00)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
